@@ -32,7 +32,7 @@ public class candies {
 		
 		System.out.println("The Minimum number of candies is "+rem);}
 		else{
-			System.out.println("the minimum number of candies is"+num);}}
+			System.out.println("the minimum number of candies is"+rem);}}
 		else{ System.out.println("output:0");
 		}}
 		}
